@@ -2,3 +2,7 @@ img {
     height: 150px;
     width: 150px;
 }
+
+* {
+    background-color: rgba(241, 150, 241, 0.712);
+}
