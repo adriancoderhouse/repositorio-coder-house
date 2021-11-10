@@ -1,8 +1,19 @@
+
+header {
+    background-color: violet;
+}
 img {
     height: 150px;
     width: 150px;
 }
 
-* {
-    background-color: rgba(241, 150, 241, 0.712);
+.padre {
+    display: flex;
+
+    flex-wrap: nowrap;
+}
+
+.hijo {
+    padding: 20px;
+    margin: 15px;
 }
