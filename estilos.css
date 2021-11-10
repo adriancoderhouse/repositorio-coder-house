@@ -1,12 +1,28 @@
 
-header {
-    background-color: violet;
-}
 img {
     height: 150px;
     width: 150px;
 }
 
+body {
+    background-color: thistle;
+}
+
+header {
+    background-color: violet;
+}
+
+main {
+    background-color: turquoise;
+}
+
+footer {
+    background-color: yellow;
+}
+
+h1, h2 {
+    text-align: center;
+}
 .padre {
     display: flex;
 
